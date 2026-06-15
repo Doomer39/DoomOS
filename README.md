@@ -1,2 +1,2 @@
 # DoomOS
-DoomOS is a hobby OS made by a person who doesn't know what he is doing
+DoomOS is a hobby OS made by a person who doesn't know what he is doing(aka Me!), and for some reason he cant learn C no matter what so this is written in Assembly Language. This is in it's early stages and he would love your feedback and improve this OS. The only commands here is /ver, and nothing else, although it runs immediatly, one good thing, and also it is only 1024 bytes after compiling.  
